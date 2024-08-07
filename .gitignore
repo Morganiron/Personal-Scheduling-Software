@@ -1,0 +1,47 @@
+# General
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log
+
+# React Native
+android/app/build/
+ios/build/
+ios/Pods/
+*.xcworkspace
+*.xcuserstate
+*.xcscheme
+*.xcodeproj
+*.pbxproj
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxproj
+*.xcuserdata
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# IDE specific
+.vscode/
+.idea/
+
+# Environment Variables
+*.env
+
+# Misc
+*.iml
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
